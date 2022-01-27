@@ -20,3 +20,9 @@ cd react-car-app/nestjs-app --Backend End
 yarn install -- Fetch and install all dependencies.
 yarn run
 ```
+
+## Preview
+
+<p align="center">
+  <img src="https://github.com/umanda/react-car-app/blob/5986a73ee652b3c00de2b2f66964acf54045ea11/screen-shots/react-car-app.png" width="400" alt="Preview of Frontend" />
+</p>
