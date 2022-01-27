@@ -1,4 +1,14 @@
-Experimental Project for Scaffolding React Application with Tailwind CSS + TypeScript + GraphQL with apollo + styled-components + NestJs API
+Experimental Project for Scaffolding React Application
+
+## Packages
+
+- ReactJs
+- Tailwind CSS
+- TypeScript
+- GraphQL with apollo
+- styled-components
+- NestJs
+- Typeorm with mysql
 
 
 ## Installation and Run
