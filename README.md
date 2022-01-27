@@ -17,8 +17,11 @@ git clone https://github.com/umanda/react-car-app.git
 cd react-car-app/react-app --Front End
 cd react-car-app/nestjs-app --Backend End
 
+setup mysql DB and update .env file with your data
+
 yarn install -- Fetch and install all dependencies.
-yarn run
+yarn run - Frontend
+yarn run:dev - Backend
 ```
 
 ## Preview
