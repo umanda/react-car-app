@@ -1,4 +1,4 @@
-Experimental Project for Scaffolding React Application
+Experimental Project for Scaffolding React website built with TailwindJs and NestJs API powered by MySQL.
 
 ## Packages
 
